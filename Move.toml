@@ -1,0 +1,23 @@
+[package]
+name = "Auctions_on_Aptos"
+version = "1.0.0"
+authors = []
+
+[addresses]
+Auctions_on_Aptos = "90193f2096ed82018c5cfd6c6ccbfe2f2f173fbf2e6066acae41397eefb2ffeb"
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-core.git"
+rev = "mainnet"
+subdir = "aptos-move/framework/aptos-framework"
+
+
+[dependencies.AptosToken]
+git = "https://github.com/aptos-labs/aptos-core.git"
+rev = "mainnet"
+subdir = "aptos-move/framework/aptos-token"
+ 
+
+[dev-dependencies]
