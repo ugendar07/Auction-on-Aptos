@@ -41,5 +41,8 @@ Make sure you have the following installed:
      aptos move publish
      ```
 
+## Acknowledgments
+- The Aptos Blockchain community for providing a robust platform for Smart Contract.
+
 ## Contact
 For questions or inquiries, please contact [ugendar](mailto:ugendar07@gmail.com) .
